@@ -1,0 +1,8 @@
+{
+  "name": "01",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/sohho888/backend-.git",
+  "author": "Vyacheslav Ponomarev <sohho888@gmail.com>",
+  "license": "MIT"
+}
